@@ -1,62 +1,58 @@
-# Hey, I'm Yajath 👋
+<div align="center">
 
-I'm a developer who enjoys building things from scratch — whether it's a web app, a hardware project, or something in between. I like turning ideas into real, working products.
+# Yajath
 
----
+**Full-Stack Developer · Open Source Contributor**
 
-## 🛠️ Tech Stack
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Hardware**
-
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat&logo=arduino&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projects
+### about
 
-### 🔒 [IRGuard](https://github.com/yajathb/IRGuard)
-A home security system combining an Arduino-based PIR motion sensor with a React/Next.js dashboard and a Python Flask backend.
-- Real-time motion detection monitored through a web dashboard
-- Secure user authentication with bcrypt password hashing
-- IP-based access control for hardware-to-server communication
-- **Stack:** Arduino (C++), Python, Flask, SQLAlchemy, React, Next.js, TypeScript
+Full-stack developer focused on building clean, functional web applications. I enjoy working across the entire stack — from designing intuitive UIs to architecting backend logic — and contributing to open source projects I actually use.
 
-### 📍 [Locora](https://github.com/yajathb/locora-app)
-A community discovery platform for Brentwood — a single, curated place to find local events, businesses, and opportunities.
-- Search and filter events and places by category
-- Clean, responsive UI built with Tailwind CSS
-- Abstracted data layer ready for a Flask backend migration
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS
+- 🔭 Currently building **Locora** — a Next.js + Supabase city guide app
+- 🛠 Contributing to **[SwingMusic](https://github.com/swingmx/swingmusic)** — a self-hosted music streaming server
+- 📦 Freelancing on full-stack web projects
 
 ---
 
-## 🌱 Currently Learning
+### tech stack
 
-- Building and integrating REST APIs with Flask
-- PostgreSQL and production-ready database design
-- Deeper TypeScript patterns and Next.js App Router
-- Hardware-software integration with Arduino and IoT devices
+**Languages** &nbsp;·&nbsp; `TypeScript` `Python` `JavaScript`
+
+**Frontend** &nbsp;·&nbsp; `Next.js` `React` `Tailwind CSS`
+
+**Backend / Data** &nbsp;·&nbsp; `Supabase` `PostgreSQL` `Node.js`
+
+**Tools** &nbsp;·&nbsp; `Git` `VS Code` `Figma`
 
 ---
 
-## 📫 Get in Touch
+### projects
 
-Feel free to check out my repos or open an issue if you want to collaborate on something!
+| project | description | stack |
+|---------|-------------|-------|
+| **Locora** | City guide web app with local discovery features | Next.js · Supabase · TypeScript · Tailwind |
+| **ShadowMap** | Digital footprint tracker and privacy checklist | React · TypeScript |
+
+---
+
+### stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yajathb&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>always building something new</sub>
+</div>
