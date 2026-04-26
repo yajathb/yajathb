@@ -39,7 +39,7 @@ Full-stack developer focused on building clean, functional web applications. I e
 | project | description | stack |
 |---------|-------------|-------|
 | **Locora** | City guide web app with local discovery features | Next.js · Supabase · TypeScript · Tailwind |
-| **ShadowMap** | Digital footprint tracker and privacy checklist | React · TypeScript |
+| **otto** | Assistant written in Python that runs fully within the terminal. | Python · Shell |
 
 ---
 
