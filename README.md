@@ -4,6 +4,7 @@
 
 **Full-Stack Developer · Open Source Contributor**
 
+[![Python](https://img.shields.io/badge/Python?style=flat-square&logo=Python&logoColor=white&color=3776AB)][https://python.org]
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
@@ -16,8 +17,7 @@
 
 Full-stack developer focused on building clean, functional web applications. I enjoy working across the entire stack — from designing intuitive UIs to architecting backend logic — and contributing to open source projects I actually use.
 
-- 🔭 Currently building **Locora** — a Next.js + Supabase city guide app
-- 🛠 Contributing to **[SwingMusic](https://github.com/swingmx/swingmusic)** — a self-hosted music streaming server
+- 🔭 Currently building **otto** — an assistant in the terminal
 - 📦 Freelancing on full-stack web projects
 
 ---
