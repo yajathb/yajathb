@@ -17,9 +17,6 @@
 
 Full-stack developer focused on building clean, functional web applications. I enjoy working across the entire stack — from designing intuitive UIs to architecting backend logic — and contributing to open source projects I actually use.
 
-- 🔭 Currently building **otto** — an assistant in the terminal
-- 📦 Freelancing on full-stack web projects
-
 ---
 
 ### tech stack
@@ -31,15 +28,6 @@ Full-stack developer focused on building clean, functional web applications. I e
 **Backend / Data** &nbsp;·&nbsp; `Supabase` `PostgreSQL` `Node.js`
 
 **Tools** &nbsp;·&nbsp; `Git` `VS Code` `Figma`
-
----
-
-### projects
-
-| project | description | stack |
-|---------|-------------|-------|
-| **Locora** | City guide web app with local discovery features | Next.js · Supabase · TypeScript · Tailwind |
-| **otto** | Assistant written in Python that runs fully within the terminal. | Python · Shell |
 
 ---
 
